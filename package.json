@@ -1,5 +1,5 @@
 {
-  "name": "gitbook-plugin-versions",
+  "name": "gitbook-plugin-versions-ory",
   "version": "2.1.4",
   "description": "Display a <select> with other versions of your gitbook",
   "main": "index.js",
