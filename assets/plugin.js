@@ -18,7 +18,7 @@ require(['gitbook', 'jQuery'], function (gitbook, $) {
 
     var $li = $('<li>', {
       'class': 'versions-select',
-      'html': '<div><select></select></div>'
+      'html': '<div><strong>Guide version: </strong><select></select></div>'
     });
     var $select = $li.find('select');
 

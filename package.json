@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-versions-ory",
-  "version": "2.1.4",
+  "version": "2.1.5",
   "description": "Display a <select> with other versions of your gitbook",
   "main": "index.js",
   "author": "Samy Pesse <samypesse@gmail.com>",
